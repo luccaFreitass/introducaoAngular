@@ -9,7 +9,7 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'aula12';
+  title = 'introducao-angular';
 
-  imageUrl: String = "http://lorempixel.com.br/200/200"
+  urlImagem = 'http://lorempixel.com.br/400/200';
 }
